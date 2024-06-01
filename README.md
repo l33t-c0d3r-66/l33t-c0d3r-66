@@ -21,6 +21,9 @@ I'm a Cyber Security Enthusiast and Aspiring Software Engineer.
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
+    <a href="https://dart.dev" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+    </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
@@ -84,6 +87,9 @@ I'm a Cyber Security Enthusiast and Aspiring Software Engineer.
   <a href="https://gluonhq.com/products/scene-builder/" target="_blank" rel="noreferrer">
     <img src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/Gluon_Reverse_Blue2.png" alt="Scene Builder" width="70" height="40"/>
   </a>
+  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+  </a>
 </p>
 
 <h4>Frontend Development</h4>
@@ -112,8 +118,6 @@ I'm a Cyber Security Enthusiast and Aspiring Software Engineer.
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
     </a>
-</p>
-<p align="left">
     <a href="https://jestjs.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
     </a>
@@ -214,11 +218,30 @@ I'm a Cyber Security Enthusiast and Aspiring Software Engineer.
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
   </a>
-  
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
 </p>
-
 <h2>Cyber Security Skills</h2>
 <h4>Pentesting Tools</h4>
+<p>
+  <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
+    <img src="https://logos.bugcrowdusercontent.com/logos/2376/fdfa/651b17be/051e0245d787d1f71246d515e88a8564_zap256x256-oversize.png" alt="owasp zap" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/aboul3la/Sublist3r" target="_blank" rel="noreferrer">
+    <img src="https://bughacking.com/wp-content/uploads/2021/04/Sublist3r-tutorial-768x432.png" alt="sublist3r" width="40" height="40"/>
+  </a>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://nmap.org/images/sitelogo.png" alt="nmap" width="50" height="40"/>
+  </a>
+  <a href="http://sqlmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://sqlmap.org/images/screenshot.png" alt="sqlmap" width="50" height="40"/>
+  </a>
+
+
+
+
+</p>
 
   
 <h2>Statistics</h2>
@@ -228,7 +251,24 @@ I'm a Cyber Security Enthusiast and Aspiring Software Engineer.
     </a>
 </p>
 
-
+<h2>Learning</h2>
+<p align="left">
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+  </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  </a>
+</p>
 
 
 <!--
