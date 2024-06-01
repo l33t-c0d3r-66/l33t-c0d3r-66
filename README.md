@@ -1,6 +1,6 @@
 <div>
   <h1>
-    Hi there
+    Hi 👋,
   </h1>
   <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=l33t-c0d3r-66&label=Profile%20views&color=0e75b6&style=flat" alt="l33t-c0d3r-66" /> 
@@ -9,7 +9,11 @@
 
 
 <p>
-I'm a Cyber Security Enthusiast and Aspiring Software Engineer.
+I'm a Cyber Security Enthusiast and Aspiring Software Engineer. 
+  
+  As an experienced software developer, I am passionate about leveraging technology to create innovative solutions that meet the unique needs of my clients. I'm a dedicated software developer specializing in Desktop Application Development, Web Development, Android & iOS apps, and Custom Software. With a passion for innovation and quality, I bring your ideas to life with efficient, tailored solutions. 
+
+  Let's connect and build something amazing together 🙂
 </p>
 
 <h2 align="left">Development Skills:</h2>
