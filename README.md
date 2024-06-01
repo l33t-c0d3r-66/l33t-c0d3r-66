@@ -13,6 +13,7 @@ I'm a Cyber Security Enthusiast and Aspiring Software Engineer.
 </p>
 
 <h2 align="left">Development Skills:</h2>
+
 <h4 align="left">Programming Languages</h3>
 <p align="left">
    <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -54,7 +55,6 @@ I'm a Cyber Security Enthusiast and Aspiring Software Engineer.
     </a>
   
 </p>
-
 
 <h4>Databases</h4>
 <p align="left">
@@ -159,8 +159,6 @@ I'm a Cyber Security Enthusiast and Aspiring Software Engineer.
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   </a>
-
-
 </p>
 
 
@@ -222,6 +220,7 @@ I'm a Cyber Security Enthusiast and Aspiring Software Engineer.
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
+
 <h2>Cyber Security Skills</h2>
 <h4>Pentesting Tools</h4>
 <p>
@@ -245,11 +244,17 @@ I'm a Cyber Security Enthusiast and Aspiring Software Engineer.
 
   
 <h2>Statistics</h2>
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=l33t-c0d3r-66" alt="l33t-c0d3r-66" />
-    </a>
-</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=l33t-c0d3r-66&theme=onedark)](https://github.com/l33t-c0d3r-66/github-profile-trophy)
+
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=l33t-c0d3r-66&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33t-c0d3r-66&layout=compact" />
+  
+</div>
 
 <h2>Learning</h2>
 <p align="left">
