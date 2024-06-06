@@ -113,9 +113,6 @@ I'm a Cyber Security Enthusiast and Aspiring Software Engineer.
     <a href="https://jquery.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank" rel="noreferrer">
-        <img src="https://www.pngkit.com/png/detail/378-3783642_using-ajax-technology-in-web-applications-proves-to.png" alt="ajax" width="40" height="40"/>
-    </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
