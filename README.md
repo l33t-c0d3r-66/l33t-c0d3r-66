@@ -226,6 +226,12 @@ I'm a Cyber Security Enthusiast and Aspiring Software Engineer.
 </p>
 
 <h2>Cyber Security Skills</h2>
+<li> Recon </li>
+<li> Scanning </li>
+<li> Enumeration </li>
+<li> Script Automation </li>
+
+
 <h4>Pentesting Tools</h4>
 <p>
   <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
