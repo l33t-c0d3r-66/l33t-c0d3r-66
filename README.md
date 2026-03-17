@@ -184,20 +184,8 @@ I'm a Cyber Security Enthusiast and Aspiring Software Engineer.
   <a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer">
     <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" alt="Eclipse" width="40" height="40"/>
   </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2026-pt4psh5t.png" alt="IntelliJ" width="40" height="40"/>
-  </a>
   <a href="https://developer.apple.com/documentation/xcode" target="_blank" rel="noreferrer">
     <img src="https://cdn.jim-nielsen.com/macos/1024/xcode-2020-11-11.png" alt="XCode" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://branditechture.agency/brand-logos/wp-content/uploads/2022/10/Android-Studio-1024x768.png" alt="Android-Studio" width="40" height="40"/>
-  </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://noviello.it/content/images/size/w2000/2020/02/maven-1.jpg" alt="Maven" width="50" height="40"/>
-  </a>
-  <a href="https://gradle.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.jrebel.com/sites/rebel/files/image/2020-11/image-blog-what-is-gradle.jpg" alt="Gradle" width="40" height="40"/>
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://e7.pngegg.com/pngimages/211/917/png-clipart-pycharm-integrated-development-environment-jetbrains-intellij-idea-python-others-miscellaneous-angle.png" alt="Pycharm" width="40" height="40"/>
@@ -257,11 +245,6 @@ I'm a Cyber Security Enthusiast and Aspiring Software Engineer.
 
   
 <h2>Statistics</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=l33t-c0d3r-66&theme=onedark)](https://github.com/l33t-c0d3r-66/github-profile-trophy)
-
-
----
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=l33t-c0d3r-66&count_private=true&include_all_commits=true" />
