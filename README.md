@@ -128,14 +128,6 @@ My work combines full-stack engineering with modern AI tools like the OpenAI API
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=l33t-c0d3r-66&count_private=true&include_all_commits=true&show_icons=true&theme=default" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33t-c0d3r-66&layout=compact&theme=default" alt="Top languages" />
-</p>
-
----
 
 <p align="center">
   Open to collaboration on AI automation, full-stack development, CRM systems, and cybersecurity-focused tooling.
